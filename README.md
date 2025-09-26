@@ -53,11 +53,6 @@ Contributions are welcome!
 If you'd like to improve this project, fork the repository and submit a pull request.
 
 👩 Author
-
 Vanshika Golam
-
 📧 vanshikagolam@gmail.com
-
-🌐 LinkedIn - https://www.linkedin.com/in/vanshika-golam-a955a926b/
-
-• GitHub - https://github.com/Vanshikagolam24
+🌐 LinkedIn - https://www.linkedin.com/in/vanshika-golam-a955a926b/ || • GitHub - https://github.com/Vanshikagolam24
