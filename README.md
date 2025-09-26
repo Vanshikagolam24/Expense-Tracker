@@ -57,7 +57,9 @@ Fork the repo and create a pull request with your improvements.
 
 Vanshika Golam
 📧 your-vanshikagolam@gmail.com
+
 🌐 LinkedIn -  https://www.linkedin.com/in/vanshika-golam-a955a926b/
+
  | GitHub - https://github.com/Vanshikagolam24
  
 🙌 Contributing
